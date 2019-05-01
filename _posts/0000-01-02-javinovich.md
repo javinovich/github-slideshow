@@ -1,6 +1,4 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Sometimes you gotta run before you can walk."
 ---
-"Sometimes you gotta run before you can walk."
-Use the left arrow to go back!
